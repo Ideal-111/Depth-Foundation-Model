@@ -29,7 +29,7 @@ We will continue to update this list with the latest resources. If you find any 
 - [] in **. [\[paper\]]()[\[code\]]()
 - [] in **. [\[paper\]]()[\[code\]]() -->
 ### 🏷️RGB-Guided
-- [Liang2025] Distilling Monocular Foundation Model for Fine-grained Depth Completion in *CVPR*, 2025. [\[paper\]]()[\[code\]](https://github.com/Sharpiless/DMD3C)
+- [Liang2025] Distilling Monocular Foundation Model for Fine-grained Depth Completion in *CVPR*, 2025. [\[paper\]](https://github.com/Sharpiless/DMD3C)[\[code\]](https://github.com/Sharpiless/DMD3C)
 <!-- - [] in **. [\[paper\]]()[\[code\]]()
 - [] in **. [\[paper\]]()[\[code\]]()
 - [] in **. [\[paper\]]()[\[code\]]()
