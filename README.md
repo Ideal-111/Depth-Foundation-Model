@@ -20,11 +20,16 @@ We will continue to update this list with the latest resources. If you find any 
 
 ### 🏷️Generative Model
 - [Gui2025] DepthFM: Fast Monocular Depth Estimation with Flow Matching in *AAAI*, 2025. [\[paper\]](https://arxiv.org/abs/2403.13788)[\[code\]](https://github.com/CompVis/depth-fm)
+- [Garcia2025] Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think in *WACV*, 2025. [\[paper\]](https://arxiv.org/pdf/2409.11355)[\[code\]](https://github.com/VisualComputingInstitute/diffusion-e2e-ft)
+- [He2025] Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction in *ICLR*, 2025. [\[paper\]](https://arxiv.org/abs/2409.18124)[\[code\]](https://github.com/EnVision-Research/Lotus)
 - [Ke2024] Marigold: Affordable Adaptation of Diffusion-Based Image Generators for Image Analysis in *CVPR*, 2024. [\[paper\]](https://arxiv.org/abs/2505.09358)[\[code\]](https://github.com/prs-eth/Marigold)
 - [Fu2024] GeoWizard: Unleashing the Diffusion Priors for 3D Geometry Estimation from a Single Image in *ECCV*, 2024. [\[paper\]](https://arxiv.org/abs/2403.12013)[\[code\]](https://github.com/fuxiao0719/GeoWizard)
 - [Liu2024] DepthLab: From Partial to Complete in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2412.18153)[\[code\]](https://github.com/ant-research/DepthLab)
+- [Shao2024] MonoDiffusion: Self-Supervised Monocular Depth Estimation Using Diffusion Model in *TCSVT*, 2024. [\[paper\]](https://arxiv.org/abs/2311.07198)[\[code\]](https://github.com/ShuweiShao/MonoDiffusion)
+- [Wang2024] Digging into contrastive learning for robust depth estimation with diffusion models in *MM*, 2024. [\[paper\]](https://arxiv.org/abs/2404.09831)[\[code\]](https://github.com/wangjiyuan9/D4RD)
 - [Ji2023] DDP: Diffusion Model for Dense Visual Prediction in *ICCV*, 2023. [\[paper\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ji_DDP_Diffusion_Model_for_Dense_Visual_Prediction_ICCV_2023_paper.pdf)[\[code\]](https://github.com/JiYuanFeng/DDP)
 - [Saxena2023] Monocular Depth Estimation using Diffusion Models in *Arxiv*, 2023. [\[paper\]](https://arxiv.org/pdf/2302.14816)[\[code\]](https://depth-gen.github.io/)
+- [Saxena2023] The Surprising Effectiveness of Diffusion Models for Optical Flow and Monocular Depth Estimation in *NeurIPS*, 2023. [\[paper\]](https://arxiv.org/pdf/2306.01923)[\[code\]](https://diffusion-vision.github.io/)
 
 ### 🏷️Combination
 - [Pham2025] SharpDepth: Sharpening Metric Depth Predictions Using Diffusion Distillation in *CVPR*, 2025. [\[paper\]](https://openaccess.thecvf.com/content/CVPR2025/papers/Pham_SharpDepth_Sharpening_Metric_Depth_Predictions_Using_Diffusion_Distillation_CVPR_2025_paper.pdf)[\[code\]](https://github.com/Qualcomm-AI-research/SharpDepth)
@@ -34,13 +39,7 @@ We will continue to update this list with the latest resources. If you find any 
 - [Voila2025][Marigold-DC: Zero-Shot Monocular Depth Completion with Guided Diffusion] in *ICCV*, 2025. [\[paper\]](https://arxiv.org/abs/2412.13389)[\[code\]](https://github.com/prs-eth/Marigold-DC)
 - [Liu2024] DepthLab: From Partial to Complete in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2412.18153)[\[code\]](https://github.com/ant-research/DepthLab)
 - [Wang2024] Improving Depth Completion via Depth Feature Upsampling in *CVPR*, 2024. [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Improving_Depth_Completion_via_Depth_Feature_Upsampling_CVPR_2024_paper.pdf)[\[code\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Improving_Depth_Completion_via_Depth_Feature_Upsampling_CVPR_2024_paper.pdf)
-<!-- - [] in **. [\[paper\]]()[\[code\]]()
-- [] in **. [\[paper\]]()[\[code\]]()
-- [] in **. [\[paper\]]()[\[code\]]()
-- [] in **. [\[paper\]]()[\[code\]]()
-- [] in **. [\[paper\]]()[\[code\]]()
-- [] in **. [\[paper\]]()[\[code\]]()
-- [] in **. [\[paper\]]()[\[code\]]() -->
+<!-- - [] in **. [\[paper\]]()[\[code\]]() -->
 
 ### 🏷️RGB-Guided Method
 - [Liang2025] Distilling Monocular Foundation Model for Fine-grained Depth Completion in *CVPR*, 2025. [\[paper\]](https://github.com/Sharpiless/DMD3C)[\[code\]](https://github.com/Sharpiless/DMD3C)
@@ -51,13 +50,14 @@ We will continue to update this list with the latest resources. If you find any 
 - [Huang2019] HMS-Net: Hierarchical Multi-Scale Sparsity-Invariant Network for Sparse Depth Completion in *IEEE TIP*, 2019. [\[paper\]](https://ieeexplore.ieee.org/document/8946876)
 
 ## ✨Datasets
+- [Roberts2021] Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding in *ICCV*, 2021. [\[paper\]](https://openaccess.thecvf.com/content/ICCV2021/papers/Roberts_Hypersim_A_Photorealistic_Synthetic_Dataset_for_Holistic_Indoor_Scene_Understanding_ICCV_2021_paper.pdf)[\[code\]](https://github.com/apple/ml-hypersim)
 - **VOID**: [Wong2020] Unsupervised depth completion from visual inertial odometry in *IEEE RA-L*, 2020. [\[paper\]](https://ieeexplore.ieee.org/document/8972600)[\[download\]](https://github.com/alexklwong/void-dataset)
 - **DIODE**: [Vasiljevic2019] DIODE: A Dense Indoor and Outdoor DEpth Dataset in *Arxiv*, 2019. [\[paper\]](https://arxiv.org/abs/1908.00463)[\[download\]](https://diode-dataset.org/)
 - **ETH3D**: [Schöps2017] A Multi-view Stereo Benchmark with High-Resolution Images and Multi-camera Videos in *CVPR*, 2017. [\[paper\]](https://ieeexplore.ieee.org/document/8099755)[\[download\]](https://www.eth3d.net/)
 - **KITTI**: [Uhrig2017] Sparsity Invariant CNNs in *3DV*, 2017. [\[paper\]](https://arxiv.org/abs/1708.06500)[\[download\]](https://www.cvlibs.net/datasets/kitti/eval_depth.php?benchmark=depth_completion)
 - **ScanNet**: [Dai2017] ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes in *CVPR*, 2017. [\[paper\]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Dai_ScanNet_Richly-Annotated_3D_CVPR_2017_paper.pdf)[\[download\]](http://www.scan-net.org/)
-- **Virtual KITTI**:- [Gaidon2016] Virtual Worlds as Proxy for Multi-Object Tracking Analysis in *CVPR*, 2016. [\[paper-v1\]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Gaidon_Virtual_Worlds_as_CVPR_2016_paper.pdf)[\[paper-v2\]](https://arxiv.org/abs/2001.10773)[\[download\]](https://synthia-dataset.net/)
-- **SYNTHIA**:- [ROS2016] The SYNTHIADataset: A Large Collection of Synthetic Images for Semantic
+- **Virtual KITTI**: [Gaidon2016] Virtual Worlds as Proxy for Multi-Object Tracking Analysis in *CVPR*, 2016. [\[paper-v1\]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Gaidon_Virtual_Worlds_as_CVPR_2016_paper.pdf)[\[paper-v2\]](https://arxiv.org/abs/2001.10773)[\[download\]](https://synthia-dataset.net/)
+- **SYNTHIA**: [ROS2016] The SYNTHIADataset: A Large Collection of Synthetic Images for Semantic
  Segmentation of Urban Scenes in *CVPR*, 2016. [\[paper\]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ros_The_SYNTHIA_Dataset_CVPR_2016_paper.pdf)[\[download\]](https://synthia-dataset.net/)
  - **NYU-v2**: [Silberman2012] Indoor Segmentation and Support Inference  from RGBD Images in *ECCV*, 2012. [\[paper\]](https://cs.nyu.edu/~fergus/datasets/indoor_seg_support.pdf)[\[download\]](https://cs.nyu.edu/~fergus/datasets/nyu_depth_v2.html)
  
