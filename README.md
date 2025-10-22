@@ -33,9 +33,8 @@ We will continue to update this list with the latest resources. If you find any 
 ### 💡Diffusion-Based Method
 - [Voila2025][Marigold-DC: Zero-Shot Monocular Depth Completion with Guided Diffusion] in *ICCV*, 2025. [\[paper\]](https://arxiv.org/abs/2412.13389)[\[code\]](https://github.com/prs-eth/Marigold-DC)
 - [Liu2024] DepthLab: From Partial to Complete in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2412.18153)[\[code\]](https://github.com/ant-research/DepthLab)
+- [Wang2024] Improving Depth Completion via Depth Feature Upsampling in *CVPR*, 2024. [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Improving_Depth_Completion_via_Depth_Feature_Upsampling_CVPR_2024_paper.pdf)[\[code\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Improving_Depth_Completion_via_Depth_Feature_Upsampling_CVPR_2024_paper.pdf)
 <!-- - [] in **. [\[paper\]]()[\[code\]]()
-- [] in **. [\[paper\]]()[\[code\]]()
-- [] in **. [\[paper\]]()[\[code\]]()
 - [] in **. [\[paper\]]()[\[code\]]()
 - [] in **. [\[paper\]]()[\[code\]]()
 - [] in **. [\[paper\]]()[\[code\]]()
@@ -44,14 +43,7 @@ We will continue to update this list with the latest resources. If you find any 
 - [] in **. [\[paper\]]()[\[code\]]() -->
 
 ### 🏷️RGB-Guided Method
-[Liang2025] Distilling Monocular Foundation Model for Fine-grained Depth Completion in *CVPR*, 2025. [\[paper\]](https://github.com/Sharpiless/DMD3C)[\[code\]](https://github.com/Sharpiless/DMD3C)
-<!-- - [] in **. [\[paper\]]()[\[code\]]()
-- [] in **. [\[paper\]]()[\[code\]]()
-- [] in **. [\[paper\]]()[\[code\]]()
-- [] in **. [\[paper\]]()[\[code\]]()
-- [] in **. [\[paper\]]()[\[code\]]()
-- [] in **. [\[paper\]]()[\[code\]]()
-- [] in **. [\[paper\]]()[\[code\]]() -->
+- [Liang2025] Distilling Monocular Foundation Model for Fine-grained Depth Completion in *CVPR*, 2025. [\[paper\]](https://github.com/Sharpiless/DMD3C)[\[code\]](https://github.com/Sharpiless/DMD3C)
 - [Tang2024] Bilateral propagation network for depth completion in *CVPR*, 2024. [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Tang_Bilateral_Propagation_Network_for_Depth_Completion_CVPR_2024_paper.pdf)[\[code\]](https://github.com/kakaxi314/BP-Net)
 
 ### 🏷️Unguided Method
@@ -64,10 +56,10 @@ We will continue to update this list with the latest resources. If you find any 
 - **ETH3D**: [Schöps2017] A Multi-view Stereo Benchmark with High-Resolution Images and Multi-camera Videos in *CVPR*, 2017. [\[paper\]](https://ieeexplore.ieee.org/document/8099755)[\[download\]](https://www.eth3d.net/)
 - **KITTI**: [Uhrig2017] Sparsity Invariant CNNs in *3DV*, 2017. [\[paper\]](https://arxiv.org/abs/1708.06500)[\[download\]](https://www.cvlibs.net/datasets/kitti/eval_depth.php?benchmark=depth_completion)
 - **ScanNet**: [Dai2017] ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes in *CVPR*, 2017. [\[paper\]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Dai_ScanNet_Richly-Annotated_3D_CVPR_2017_paper.pdf)[\[download\]](http://www.scan-net.org/)
-- **NYU-v2**: [Silberman2012] Indoor Segmentation and Support Inference  from RGBD Images in *ECCV*, 2012. [\[paper\]](https://cs.nyu.edu/~fergus/datasets/indoor_seg_support.pdf)[\[download\]](https://cs.nyu.edu/~fergus/datasets/nyu_depth_v2.html)
-- **Virtual KITTI**:- [Gaidon2016] Virtual Worlds as Proxy for Multi-Object Tracking Analysis in *CVPR*,2016. [\[paper-v1\]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Gaidon_Virtual_Worlds_as_CVPR_2016_paper.pdf)[\[paper-v2\]](https://arxiv.org/abs/2001.10773)[\[download\]](https://synthia-dataset.net/)
+- **Virtual KITTI**:- [Gaidon2016] Virtual Worlds as Proxy for Multi-Object Tracking Analysis in *CVPR*, 2016. [\[paper-v1\]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Gaidon_Virtual_Worlds_as_CVPR_2016_paper.pdf)[\[paper-v2\]](https://arxiv.org/abs/2001.10773)[\[download\]](https://synthia-dataset.net/)
 - **SYNTHIA**:- [ROS2016] The SYNTHIADataset: A Large Collection of Synthetic Images for Semantic
  Segmentation of Urban Scenes in *CVPR*, 2016. [\[paper\]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ros_The_SYNTHIA_Dataset_CVPR_2016_paper.pdf)[\[download\]](https://synthia-dataset.net/)
+ - **NYU-v2**: [Silberman2012] Indoor Segmentation and Support Inference  from RGBD Images in *ECCV*, 2012. [\[paper\]](https://cs.nyu.edu/~fergus/datasets/indoor_seg_support.pdf)[\[download\]](https://cs.nyu.edu/~fergus/datasets/nyu_depth_v2.html)
  
 ## ✨Related Survey
 - [Xu2025] Towards Depth Foundation Model: Recent Trends in Vision-Based Depth Estimation in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2507.11540)
