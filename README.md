@@ -61,7 +61,7 @@ We will continue to update this list with the latest resources. If you find any 
 ## ✨Datasets
 - **VOID**: [Wong2020] Unsupervised depth completion from visual inertial odometry in *IEEE RA-L*, 2020. [\[paper\]](https://ieeexplore.ieee.org/document/8972600)[\[download\]](https://github.com/alexklwong/void-dataset)
 - **DIODE**: [Vasiljevic2019] DIODE: A Dense Indoor and Outdoor DEpth Dataset in *Arxiv*, 2019. [\[paper\]](https://arxiv.org/abs/1908.00463)[\[download\]](https://diode-dataset.org/)
-- **ETH3D**: [Sch $\ddot$ {o}ps] A Multi-view Stereo Benchmark with High-Resolution Images and Multi-camera Videos in *CVPR*, 2017. [\[paper\]](https://ieeexplore.ieee.org/document/8099755)[\[download\]](https://www.eth3d.net/)
+- **ETH3D**: [Schöps2017] A Multi-view Stereo Benchmark with High-Resolution Images and Multi-camera Videos in *CVPR*, 2017. [\[paper\]](https://ieeexplore.ieee.org/document/8099755)[\[download\]](https://www.eth3d.net/)
 - **KITTI**: [Uhrig2017] Sparsity Invariant CNNs in *3DV*, 2017. [\[paper\]](https://arxiv.org/abs/1708.06500)[\[download\]](https://www.cvlibs.net/datasets/kitti/eval_depth.php?benchmark=depth_completion)
 - **ScanNet**: [Dai2017] ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes in *CVPR*, 2017. [\[paper\]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Dai_ScanNet_Richly-Annotated_3D_CVPR_2017_paper.pdf)[\[download\]](http://www.scan-net.org/)
 - **NYU-v2**: [Silberman2012] Indoor Segmentation and Support Inference  from RGBD Images in *ECCV*, 2012. [\[paper\]](https://cs.nyu.edu/~fergus/datasets/indoor_seg_support.pdf)[\[download\]](https://cs.nyu.edu/~fergus/datasets/nyu_depth_v2.html)
