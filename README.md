@@ -14,6 +14,8 @@ We will continue to update this list with the latest resources. If you find any 
 - [Yang2024] Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data in *CVPR*, 2024. [\[paper\]](https://arxiv.org/abs/2401.10891)[\[code\]](https://github.com/LiheYoung/Depth-Anything)
 - [Yang2024] Depth Anything V2 in *NeurIPS*, 2024. [\[paper\]](https://arxiv.org/abs/2406.09414)[\[code\]](https://github.com/DepthAnything/Depth-Anything-V2)
 - [Hu2024] Metric3Dv2: A Versatile Monocular Geometric Foundation Model for Zero-shot Metric Depth and Surface Normal Estimation in *IEEE TPAMI*, 2024. [\[paper\]](https://arxiv.org/abs/2404.15506)[\[code\]](https://github.com/YvanYin/Metric3D)
+- [Liu2024] Mono-ViFI: A Unified Learning Framework for Self-supervised Single and Multi-frame Monocular Depth Estimation in *ECCV*, 2024. [\[paper\]](https://arxiv.org/abs/2407.14126)[\[code\]](https://github.com/LiuJF1226/Mono-ViFI)
+- [Han2024] High-Precision Self-Supervised Monocular Depth Estimation with Rich-Resource Prior in *ECCV*, 2024. [\[paper\]](https://arxiv.org/abs/2408.00361)[\[code\]](https://github.com/wencheng256/RPrDepth)
 - [Yin2023] Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image in *ICCV*, 2023. [\[paper\]](https://arxiv.org/abs/2307.10984)[\[code\]](https://github.com/YvanYin/Metric3D)
 - [Zhang2022] Hierarchical Normalization for Robust Monocular Depth Estimation in *NeurIPS*, 2022. [\[paper\]](https://arxiv.org/abs/2210.09670)[\[code\]](https://github.com/icoz69/HDN)
 - [Ranftl2021] Vision Transformers for Dense Prediction in *ICCV*, 2021. [\[paper\]](https://openaccess.thecvf.com/content/ICCV2021/papers/Ranftl_Vision_Transformers_for_Dense_Prediction_ICCV_2021_paper.pdf)[\[code\]](https://github.com/isl-org/DPT)
@@ -37,7 +39,7 @@ We will continue to update this list with the latest resources. If you find any 
 
 ## ✨Depth Completion
 ### 💡Diffusion-Based Method
-- [Voila2025][Marigold-DC: Zero-Shot Monocular Depth Completion with Guided Diffusion] in *ICCV*, 2025. [\[paper\]](https://arxiv.org/abs/2412.13389)[\[code\]](https://github.com/prs-eth/Marigold-DC)
+- [Voila2025] Marigold-DC: Zero-Shot Monocular Depth Completion with Guided Diffusion in *ICCV*, 2025. [\[paper\]](https://arxiv.org/abs/2412.13389)[\[code\]](https://github.com/prs-eth/Marigold-DC)
 - [Liu2024] DepthLab: From Partial to Complete in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2412.18153)[\[code\]](https://github.com/ant-research/DepthLab)
 <!-- - [] in **. [\[paper\]]()[\[code\]]() -->
 
