@@ -27,7 +27,7 @@ We will continue to update this list with the latest resources. If you find any 
 ### 🏷️Generative Model
 - [Pham] GeoDiff: Geometry-Guided Diffusion for Metric Depth Estimation in *ICCV Findings*, 2025. [\[paper\]](https://arxiv.org/pdf/2510.18291)[\[code\]]()
 - [Gui2025] DepthFM: Fast Monocular Depth Estimation with Flow Matching in *AAAI*, 2025. [\[paper\]](https://arxiv.org/abs/2403.13788)[\[code\]](https://github.com/CompVis/depth-fm)
-- [Hu2025] DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos in **. [\[paper\]](https://arxiv.org/abs/2409.02095)[\[code\]](https://github.com/Tencent/DepthCrafter)
+- [Hu2025] DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos in *CVPR*, 2025. [\[paper\]](https://arxiv.org/abs/2409.02095)[\[code\]](https://github.com/Tencent/DepthCrafter)
 - [Garcia2025] Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think in *WACV*, 2025. [\[paper\]](https://arxiv.org/pdf/2409.11355)[\[code\]](https://github.com/VisualComputingInstitute/diffusion-e2e-ft)
 - [He2025] Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction in *ICLR*, 2025. [\[paper\]](https://arxiv.org/abs/2409.18124)[\[code\]](https://github.com/EnVision-Research/Lotus)
 - [Shao2025] Learning Temporally Consistent Video Depth from Video Diffusion Priors in *CVPR*, 2025. [\[paper\]](https://arxiv.org/abs/2406.01493)[\[code\]](https://github.com/jiahao-shao1/ChronoDepth)
@@ -51,6 +51,7 @@ We will continue to update this list with the latest resources. If you find any 
 ### 💡Zero-shot Method
 - [Lee2025] Zero-shot Depth Completion via Test-time Alignment with Affine-invariant Depth Prior in *AAAI*，2025. [\[paper\]](https://arxiv.org/abs/2502.06338)[\[code\]](https://github.com/kaist-ami/Zero-Shot-Depth-Completion)
 - [Jeong2025] Test-Time Prompt Tuning for Zero-Shot Depth Completion in *ICCV*，2025. [\[paper\]](https://openaccess.thecvf.com/content/ICCV2025/papers/Jeong_Test-Time_Prompt_Tuning_for_Zero-Shot_Depth_Completion_ICCV_2025_paper.pdf)[\[code\]](https://github.com/JinhwiPark/TestPromptDC)
+- [Zuo2025] OMNI-DC: Highly Robust Depth Completion with Multiresolution Depth Integration in *ICCV*, 2025. [\[paper\]](https://arxiv.org/abs/2411.19278)[\[code\]](https://github.com/princeton-vl/OMNI-DC) 
 - [Bartolomei2024] Revisiting Depth Completion from a Stereo Matching Perspective for Cross-domain Generalization in *3DV*, 2024. [\[paper\]](https://arxiv.org/pdf/2312.09254)[\[code\]](https://github.com/bartn8/vppdc/)
 <!-- - [] in **. [\[paper\]]()[\[code\]]() -->
 
