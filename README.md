@@ -1,6 +1,6 @@
 # Depth Foundation Models
 - A collection of papers on depth estimation with depth foundation models, e.g., discriminative model, generativate model, etc.
-- A collection of papers on depth completion with different methods, e.g., RGB-Guided method, Unguided, etc. We list the depth completion methods based on **diffusion models** separately to emphasize an important direction for future depth completion research.
+- A collection of papers on depth completion with different methods, e.g., RGB-Guided method, Unguided, etc. We list the **Diffusion-based Method** and **Zero-shot Method** separately to emphasize some important directions for future depth completion research.
 
 - We mainly focus on the work after **2022**.
 
@@ -51,6 +51,7 @@ We will continue to update this list with the latest resources. If you find any 
 ### 💡Zero-shot Method
 - [Lee2025] Zero-shot Depth Completion via Test-time Alignment with Affine-invariant Depth Prior in *AAAI*，2025. [\[paper\]](https://arxiv.org/abs/2502.06338)[\[code\]](https://github.com/kaist-ami/Zero-Shot-Depth-Completion)
 - [Jeong2025] Test-Time Prompt Tuning for Zero-Shot Depth Completion in *ICCV*，2025. [\[paper\]](https://openaccess.thecvf.com/content/ICCV2025/papers/Jeong_Test-Time_Prompt_Tuning_for_Zero-Shot_Depth_Completion_ICCV_2025_paper.pdf)[\[code\]](https://github.com/JinhwiPark/TestPromptDC)
+- [Bartolomei2024] Revisiting Depth Completion from a Stereo Matching Perspective for Cross-domain Generalization in *3DV*, 2024. [\[paper\]](https://arxiv.org/pdf/2312.09254)[\[code\]](https://github.com/bartn8/vppdc/)
 <!-- - [] in **. [\[paper\]]()[\[code\]]() -->
 
 ### 🏷️RGB-Guided Method
@@ -59,8 +60,11 @@ We will continue to update this list with the latest resources. If you find any 
 - [Wang2024] Improving Depth Completion via Depth Feature Upsampling in *CVPR*, 2024. [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Improving_Depth_Completion_via_Depth_Feature_Upsampling_CVPR_2024_paper.pdf)[\[code\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Improving_Depth_Completion_via_Depth_Feature_Upsampling_CVPR_2024_paper.pdf)
 
 ### 🏷️Unguided Method
+- [Lu2020] From Depth What Can You See? Depth Completion via Auxiliary Image Reconstruction in *CVPR*, 2020. [\[paper\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lu_From_Depth_What_Can_You_See_Depth_Completion_via_Auxiliary_CVPR_2020_paper.pdf)
 - [Eldesokey2020] Uncertainty-Aware CNNs for Depth Completion: Uncertainty from Beginning to End in *CVPR*, 2020. [\[paper\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Eldesokey_Uncertainty-Aware_CNNs_for_Depth_Completion_Uncertainty_from_Beginning_to_End_CVPR_2020_paper.pdf)[\[code\]](https://github.com/abdo-eldesokey/pncnn)
 - [Huang2019] HMS-Net: Hierarchical Multi-Scale Sparsity-Invariant Network for Sparse Depth Completion in *IEEE TIP*, 2019. [\[paper\]](https://ieeexplore.ieee.org/document/8946876)
+- [Chodosh2018] Deep Convolutional Compressed Sensing for LiDAR Depth Completion in *ACCV*, 2018. [\[paper\]](https://arxiv.org/abs/1803.08949)[\[code\]](https://github.com/nchodosh/Super-LiDAR)
+- [Eldesokey2018] Propagating confidences through cnns for sparse data regression in *BMVC*, 2018. [\[paper\]](Propagating confidences through cnns for sparse data regression)
 
 ## ✨Datasets
 - **Hypersim**: [Roberts2021] Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding in *ICCV*, 2021. [\[paper\]](https://openaccess.thecvf.com/content/ICCV2021/papers/Roberts_Hypersim_A_Photorealistic_Synthetic_Dataset_for_Holistic_Indoor_Scene_Understanding_ICCV_2021_paper.pdf)[\[download\]](https://github.com/apple/ml-hypersim)
