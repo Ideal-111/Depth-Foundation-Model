@@ -64,7 +64,7 @@ We will continue to update this list with the latest resources. If you find any 
 - [Eldesokey2020] Uncertainty-Aware CNNs for Depth Completion: Uncertainty from Beginning to End in *CVPR*, 2020. [\[paper\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Eldesokey_Uncertainty-Aware_CNNs_for_Depth_Completion_Uncertainty_from_Beginning_to_End_CVPR_2020_paper.pdf)[\[code\]](https://github.com/abdo-eldesokey/pncnn)
 - [Huang2019] HMS-Net: Hierarchical Multi-Scale Sparsity-Invariant Network for Sparse Depth Completion in *IEEE TIP*, 2019. [\[paper\]](https://ieeexplore.ieee.org/document/8946876)
 - [Chodosh2018] Deep Convolutional Compressed Sensing for LiDAR Depth Completion in *ACCV*, 2018. [\[paper\]](https://arxiv.org/abs/1803.08949)[\[code\]](https://github.com/nchodosh/Super-LiDAR)
-- [Eldesokey2018] Propagating confidences through cnns for sparse data regression in *BMVC*, 2018. [\[paper\]](Propagating confidences through cnns for sparse data regression)
+- [Eldesokey2018] Propagating confidences through cnns for sparse data regression in *BMVC*, 2018. [\[paper\]](https://arxiv.org/abs/1805.11913)
 
 ## ✨Datasets
 - **Hypersim**: [Roberts2021] Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding in *ICCV*, 2021. [\[paper\]](https://openaccess.thecvf.com/content/ICCV2021/papers/Roberts_Hypersim_A_Photorealistic_Synthetic_Dataset_for_Holistic_Indoor_Scene_Understanding_ICCV_2021_paper.pdf)[\[download\]](https://github.com/apple/ml-hypersim)
