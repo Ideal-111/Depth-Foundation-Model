@@ -8,6 +8,7 @@ We will continue to update this list with the latest resources. If you find any 
 
 ## ✨Monocular Depth Estimation
 ### 🏷️Discriminative Model
+- [Lin2025] Depth Anything 3: Recovering the Visual Space from Any Views in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2511.10647)[\[code\]](https://github.com/ByteDance-Seed/Depth-Anything-3)
 - [Wang2025] Jasmine: Harnessing Diffusion Prior for Self-supervised Depth Estimation in *NeurIPS*, 2025. [\[paper\]](https://arxiv.org/abs/2503.15905)[\[code\]](https://github.com/wangjiyuan9/jasmine)
 - [Wang2025] VGGT: Visual Geometry Grounded Transformer in *CVPR*, 2025. 👍*CVPR Best Paper*. [\[paper\]](https://arxiv.org/abs/2503.11651)[\[code\]](https://github.com/facebookresearch/vggt)
 - [Fang2025] Dens3R: A Foundation Model for 3D Geometry Prediction in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/pdf/2507.16290v1)[\[code\]](https://github.com/G-1nOnly/Dens3R)
@@ -18,6 +19,7 @@ We will continue to update this list with the latest resources. If you find any 
 - [Yang2024] Depth Anything V2 in *NeurIPS*, 2024. [\[paper\]](https://arxiv.org/abs/2406.09414)[\[code\]](https://github.com/DepthAnything/Depth-Anything-V2)
 - [Hu2024] Metric3Dv2: A Versatile Monocular Geometric Foundation Model for Zero-shot Metric Depth and Surface Normal Estimation in *IEEE TPAMI*, 2024. [\[paper\]](https://arxiv.org/abs/2404.15506)[\[code\]](https://github.com/YvanYin/Metric3D)
 - [Liu2024] Mono-ViFI: A Unified Learning Framework for Self-supervised Single and Multi-frame Monocular Depth Estimation in *ECCV*, 2024. [\[paper\]](https://arxiv.org/abs/2407.14126)[\[code\]](https://github.com/LiuJF1226/Mono-ViFI)
+- [Li2024] PatchRefiner: Leveraging Synthetic Data for Real-Domain High-Resolution Monocular Metric Depth Estimation in *ECCV*, 2024. [\[paper\]](https://arxiv.org/abs/2406.06679)[\[code\]](https://github.com/zhyever/PatchRefiner)
 - [Han2024] High-Precision Self-Supervised Monocular Depth Estimation with Rich-Resource Prior in *ECCV*, 2024. [\[paper\]](https://arxiv.org/abs/2408.00361)[\[code\]](https://github.com/wencheng256/RPrDepth)
 - [Bhat2023] ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth in *Arxiv*, 2023. [\[paper\]](https://arxiv.org/abs/2302.12288)[\[code\]](https://github.com/isl-org/ZoeDepth)
 - [Guizilini2023] Towards Zero-Shot Scale-Aware Monocular Depth Estimation in *ICCV*, 2023. [\[paper\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Guizilini_Towards_Zero-Shot_Scale-Aware_Monocular_Depth_Estimation_ICCV_2023_paper.pdf)[\[code\]](https://github.com/tri-ml/vidar)
@@ -36,8 +38,10 @@ We will continue to update this list with the latest resources. If you find any 
 - [Garcia2025] Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think in *WACV*, 2025. [\[paper\]](https://arxiv.org/pdf/2409.11355)[\[code\]](https://github.com/VisualComputingInstitute/diffusion-e2e-ft)
 - [He2025] Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction in *ICLR*, 2025. [\[paper\]](https://arxiv.org/abs/2409.18124)[\[code\]](https://github.com/EnVision-Research/Lotus)
 - [Shao2025] Learning Temporally Consistent Video Depth from Video Diffusion Priors in *CVPR*, 2025. [\[paper\]](https://arxiv.org/abs/2406.01493)[\[code\]](https://github.com/jiahao-shao1/ChronoDepth)
-- [Ke2024] Marigold: Affordable Adaptation of Diffusion-Based Image Generators for Image Analysis in *CVPR*, 2024. [\[paper\]](https://arxiv.org/abs/2505.09358)[\[code\]](https://github.com/prs-eth/Marigold)
+- [Ke2025] Marigold: Affordable Adaptation of Diffusion-Based Image Generators for Image Analysis in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2505.09358)[\[code\]](https://github.com/prs-eth/Marigold)
+- [Ke2024] Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation in *CVPR*, 2024. [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Ke_Repurposing_Diffusion-Based_Image_Generators_for_Monocular_Depth_Estimation_CVPR_2024_paper.pdf)[\[code\]](https://github.com/prs-eth/Marigold)
 - [Fu2024] GeoWizard: Unleashing the Diffusion Priors for 3D Geometry Estimation from a Single Image in *ECCV*, 2024. [\[paper\]](https://arxiv.org/abs/2403.12013)[\[code\]](https://github.com/fuxiao0719/GeoWizard)
+- [Zhang2024] BetterDepth: Plug-and-Play Diffusion Refiner for Zero-Shot Monocular Depth Estimation in *NeurIPS*, 2024. [\[paper\]](https://arxiv.org/abs/2407.17952)
 - [Liu2024] DepthLab: From Partial to Complete in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2412.18153)[\[code\]](https://github.com/ant-research/DepthLab)
 - [Shao2024] MonoDiffusion: Self-Supervised Monocular Depth Estimation Using Diffusion Model in *TCSVT*, 2024. [\[paper\]](https://arxiv.org/abs/2311.07198)[\[code\]](https://github.com/ShuweiShao/MonoDiffusion)
 - [Wang2024] Digging into contrastive learning for robust depth estimation with diffusion models in *MM*, 2024. [\[paper\]](https://arxiv.org/abs/2404.09831)[\[code\]](https://github.com/wangjiyuan9/D4RD)
