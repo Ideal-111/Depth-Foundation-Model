@@ -64,7 +64,7 @@ We will continue to update this list with the latest resources. If you find any 
 
 ### 💡Foundation Model-based Method
 - [Liang2025] Distilling Monocular Foundation Model for Fine-grained Depth Completion in *CVPR*, 2025. [\[paper\]](https://github.com/Sharpiless/DMD3C)[\[code\]](https://github.com/Sharpiless/DMD3C)
-- [Chen2025] Propagating Sparse Depth via Depth Foundation Model for Out-of-Distribution Depth Completionin *IEEE TIP*. [\[paper\]](https://www.arxiv.org/abs/2508.04984)[\[code\]](https://github.com/shenglunch/PSD)
+- [Chen2025] Propagating Sparse Depth via Depth Foundation Model for Out-of-Distribution Depth Completion in *IEEE TIP*, 2025. [\[paper\]](https://www.arxiv.org/abs/2508.04984)[\[code\]](https://github.com/shenglunch/PSD)
 - [Park2024] Depth Prompting for Sensor-Agnostic Depth Estimation in *CVPR*, 2024. [\[paper\]](https://arxiv.org/abs/2405.11867)[\[code\]](https://github.com/JinhwiPark/DepthPrompting)
 - [Park2024] A Simple yet Universal Framework for Depth Completion in *NeurIPS*, 2024. [\[paper\]](https://openreview.net/forum?id=Y4tHp5Jilp)[\[code\]](https://github.com/JinhwiPark/UniDC)
 
