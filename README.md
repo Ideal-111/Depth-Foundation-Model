@@ -1,6 +1,6 @@
 # Depth Foundation Models
 - A collection of papers on depth estimation with depth foundation models, e.g., discriminative model, generativate model, etc.
-- A collection of papers on depth completion with different methods, e.g., RGB-Guided method, Unguided, etc. We list the **Diffusion-based Method** and **Zero-shot Method** separately to emphasize some important directions for future depth completion research.
+- A collection of papers on depth completion with different methods, e.g., RGB-Guided method, Unguided, etc. We list the **Zero-shot Method** separately to emphasize some important directions for future depth completion research.
 
 - We mainly focus on the work after **2022**.
 
@@ -54,18 +54,21 @@ We will continue to update this list with the latest resources. If you find any 
 - [Pham2025] SharpDepth: Sharpening Metric Depth Predictions Using Diffusion Distillation in *CVPR*, 2025. [\[paper\]](https://openaccess.thecvf.com/content/CVPR2025/papers/Pham_SharpDepth_Sharpening_Metric_Depth_Predictions_Using_Diffusion_Distillation_CVPR_2025_paper.pdf)[\[code\]](https://github.com/Qualcomm-AI-research/SharpDepth)
 
 ## ✨Depth Completion
-### 💡Diffusion-Based Method
-- [Voila2025] Marigold-DC: Zero-Shot Monocular Depth Completion with Guided Diffusion in *ICCV*, 2025. [\[paper\]](https://arxiv.org/abs/2412.13389)[\[code\]](https://github.com/prs-eth/Marigold-DC)
-
 ### 💡Zero-shot Method
+- [Voila2025] Marigold-DC: Zero-Shot Monocular Depth Completion with Guided Diffusion in *ICCV*, 2025. [\[paper\]](https://arxiv.org/abs/2412.13389)[\[code\]](https://github.com/prs-eth/Marigold-DC)
 - [Lee2025] Zero-shot Depth Completion via Test-time Alignment with Affine-invariant Depth Prior in *AAAI*，2025. [\[paper\]](https://arxiv.org/abs/2502.06338)[\[code\]](https://github.com/kaist-ami/Zero-Shot-Depth-Completion)
 - [Jeong2025] Test-Time Prompt Tuning for Zero-Shot Depth Completion in *ICCV*，2025. [\[paper\]](https://openaccess.thecvf.com/content/ICCV2025/papers/Jeong_Test-Time_Prompt_Tuning_for_Zero-Shot_Depth_Completion_ICCV_2025_paper.pdf)[\[code\]](https://github.com/JinhwiPark/TestPromptDC)
 - [Zuo2025] OMNI-DC: Highly Robust Depth Completion with Multiresolution Depth Integration in *ICCV*, 2025. [\[paper\]](https://arxiv.org/abs/2411.19278)[\[code\]](https://github.com/princeton-vl/OMNI-DC) 
 - [Bartolomei2024] Revisiting Depth Completion from a Stereo Matching Perspective for Cross-domain Generalization in *3DV*, 2024. [\[paper\]](https://arxiv.org/pdf/2312.09254)[\[code\]](https://github.com/bartn8/vppdc/)
 <!-- - [] in **. [\[paper\]]()[\[code\]]() -->
 
-### 🏷️RGB-Guided Method
+### 💡Foundation Model-based Method
 - [Liang2025] Distilling Monocular Foundation Model for Fine-grained Depth Completion in *CVPR*, 2025. [\[paper\]](https://github.com/Sharpiless/DMD3C)[\[code\]](https://github.com/Sharpiless/DMD3C)
+- [Chen2025] Propagating Sparse Depth via Depth Foundation Model for Out-of-Distribution Depth Completionin *IEEE TIP*. [\[paper\]](https://www.arxiv.org/abs/2508.04984)[\[code\]](https://github.com/shenglunch/PSD)
+- [Park2024] Depth Prompting for Sensor-Agnostic Depth Estimation in *CVPR*, 2024. [\[paper\]](https://arxiv.org/abs/2405.11867)[\[code\]](https://github.com/JinhwiPark/DepthPrompting)
+- [Park2024] A Simple yet Universal Framework for Depth Completion in *NeurIPS*, 2024. [\[paper\]](https://openreview.net/forum?id=Y4tHp5Jilp)[\[code\]](https://github.com/JinhwiPark/UniDC)
+
+### 🏷️RGB-Guided Method
 - [Tang2024] Bilateral propagation network for depth completion in *CVPR*, 2024. [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Tang_Bilateral_Propagation_Network_for_Depth_Completion_CVPR_2024_paper.pdf)[\[code\]](https://github.com/kakaxi314/BP-Net)
 - [Wang2024] Improving Depth Completion via Depth Feature Upsampling in *CVPR*, 2024. [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Improving_Depth_Completion_via_Depth_Feature_Upsampling_CVPR_2024_paper.pdf)[\[code\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Improving_Depth_Completion_via_Depth_Feature_Upsampling_CVPR_2024_paper.pdf)
 
