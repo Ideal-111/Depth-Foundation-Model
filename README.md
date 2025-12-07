@@ -10,6 +10,8 @@ We will continue to update this list with the latest resources. If you find any 
 ### 🏷️Discriminative Model
 - [Lin2025] Depth Anything 3: Recovering the Visual Space from Any Views in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2511.10647)[\[code\]](https://github.com/ByteDance-Seed/Depth-Anything-3)
 - [Wang2025] Jasmine: Harnessing Diffusion Prior for Self-supervised Depth Estimation in *NeurIPS*, 2025. [\[paper\]](https://arxiv.org/abs/2503.15905)[\[code\]](https://github.com/wangjiyuan9/jasmine)
+- [Wang2025] MoGe-2: Accurate Monocular Geometry with Metric Scale and Sharp Details in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2507.02546)[\[code\]](https://github.com/microsoft/moge)
+- [Wang2025] MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision in *CVPR*, 2025. [\[paper\]](https://arxiv.org/abs/2410.19115)[\[code\]](https://github.com/microsoft/moge)
 - [Wang2025] VGGT: Visual Geometry Grounded Transformer in *CVPR*, 2025. 👍*CVPR Best Paper*. [\[paper\]](https://arxiv.org/abs/2503.11651)[\[code\]](https://github.com/facebookresearch/vggt)
 - [Fang2025] Dens3R: A Foundation Model for 3D Geometry Prediction in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/pdf/2507.16290v1)[\[code\]](https://github.com/G-1nOnly/Dens3R)
 - [Piccinelli2025] UniDepthV2: Universal Monocular Metric Depth Estimation Made Simpler in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/pdf/2502.20110)[\[code\]](https://github.com/lpiccinelli-eth/UniDepth)
@@ -31,6 +33,7 @@ We will continue to update this list with the latest resources. If you find any 
 - [Li2018] MegaDepth: Learning Single-View Depth Prediction from Internet Photos in *CVPR*, 2018. [\[paper\]]()[\[code\]](https://github.com/zhengqili/MegaDepth)
 
 ### 🏷️Generative Model
+- [He2025] Lotus-2:Advancing Geometric Dense Prediction with Powerful Image Generative Model in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/pdf/2512.01030)[\[code\]](https://github.com/EnVision-Research/Lotus-2)
 - [Lin2025] More Than Generation: Unifying Generation and Depth Estimation via Text-to-Image Diffusion Models in *NeurIPS*, 2025. [\[paper\]](https://arxiv.org/abs/2510.23574)[\[code\]](https://github.com/H-EmbodVis/MERGE)
 - [Pham2025] GeoDiff: Geometry-Guided Diffusion for Metric Depth Estimation in *ICCV Findings*, 2025. [\[paper\]](https://arxiv.org/pdf/2510.18291)
 - [Gui2025] DepthFM: Fast Monocular Depth Estimation with Flow Matching in *AAAI*, 2025. [\[paper\]](https://arxiv.org/abs/2403.13788)[\[code\]](https://github.com/CompVis/depth-fm)
