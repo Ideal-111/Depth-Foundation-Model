@@ -34,6 +34,7 @@ We will continue to update this list with the latest resources. If you find any 
 
 ### 🏷️Generative Model
 - [He2025] Lotus-2:Advancing Geometric Dense Prediction with Powerful Image Generative Model in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/pdf/2512.01030)[\[code\]](https://github.com/EnVision-Research/Lotus-2)
+- [Li2025] CH~3~Depth: Efficient and Flexible Depth Foundation Model with Flow Matching in *CVPR*, 2025. [\[paper\]](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_CH3Depth_Efficient_and_Flexible_Depth_Foundation_Model_with_Flow_Matching_CVPR_2025_paper.pdf)[\[code\]](https://github.com/lijia7/CH3Depth)
 - [Lin2025] More Than Generation: Unifying Generation and Depth Estimation via Text-to-Image Diffusion Models in *NeurIPS*, 2025. [\[paper\]](https://arxiv.org/abs/2510.23574)[\[code\]](https://github.com/H-EmbodVis/MERGE)
 - [Pham2025] GeoDiff: Geometry-Guided Diffusion for Metric Depth Estimation in *ICCV Findings*, 2025. [\[paper\]](https://arxiv.org/pdf/2510.18291)
 - [Gui2025] DepthFM: Fast Monocular Depth Estimation with Flow Matching in *AAAI*, 2025. [\[paper\]](https://arxiv.org/abs/2403.13788)[\[code\]](https://github.com/CompVis/depth-fm)
