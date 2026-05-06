@@ -1,7 +1,9 @@
+<<<<<<< HEAD
 # Awesome-Foundation-Model-Based-Depth
 ## 📖 Introduction
 Welcome to the GitHub repository for Awesome-Foundation-Depth!
 This repository is a curated collection of cutting-edge research, tools, and datasets dedicated to **Depth Estimation** and **Depth Completion leveraging Foundation Models (FMs)**. We aim to provide a systematic and up-to-date overview of how large-scale pre-trained models are revolutionizing geometric vision.
+
 
 ## 🚀 Key Features
 - **Comprehensive Depth Estimation Survey**: A categorized collection of papers focusing on depth foundation models, further distinguished by their underlying paradigms: Discriminative Models (e.g., ViT-based backbones) and Generative Models (e.g., Diffusion-based synthesis).
@@ -10,9 +12,11 @@ This repository is a curated collection of cutting-edge research, tools, and dat
 
 ```
 Taxonomy
-├── Architectural Fine-tuning
-├── Knowledge Distillation
-├── Test-time Adaptation
+├── Cross-model Offline Fusion: Test-time Adaptation
+├── Inference-time Optimization Fusion: Distillation
+├── Input-centric Condition Fusion: Prompting
+├── Structural-feature Guided Fusion: Propagation
+├── Others
 ```
 
 ## 💪 How to Contribute
@@ -57,7 +61,9 @@ We will continue to update this list with the latest resources. If you find any 
 - [Shao2025] Learning Temporally Consistent Video Depth from Video Diffusion Priors in *CVPR*, 2025. [\[paper\]](https://arxiv.org/abs/2406.01493)[\[code\]](https://github.com/jiahao-shao1/ChronoDepth)
 - [Ke2025] Marigold: Affordable Adaptation of Diffusion-Based Image Generators for Image Analysis in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2505.09358)[\[code\]](https://github.com/prs-eth/Marigold)
 - [Ke2024] Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation in *CVPR*, 2024. [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Ke_Repurposing_Diffusion-Based_Image_Generators_for_Monocular_Depth_Estimation_CVPR_2024_paper.pdf)[\[code\]](https://github.com/prs-eth/Marigold)
+<<<<<<< HEAD
 - [Liu2024] DepthLab: From Partial to Complete in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2412.18153)[\[code\]](https://github.com/ant-research/DepthLab)
+- [Fu2024] GeoWizard: Unleashing the Diffusion Priors for 3D Geometry Estimation from a Single Image in *ECCV*, 2024. [\[paper\]](https://arxiv.org/abs/2403.12013)[\[code\]](https://github.com/fuxiao0719/GeoWizard)
 - [Fu2024] GeoWizard: Unleashing the Diffusion Priors for 3D Geometry Estimation from a Single Image in *ECCV*, 2024. [\[paper\]](https://arxiv.org/abs/2403.12013)[\[code\]](https://github.com/fuxiao0719/GeoWizard)
 - [Shao2024] MonoDiffusion: Self-Supervised Monocular Depth Estimation Using Diffusion Model in *TCSVT*, 2024. [\[paper\]](https://arxiv.org/abs/2311.07198)[\[code\]](https://github.com/ShuweiShao/MonoDiffusion)
 - [Wang2024] Digging into contrastive learning for robust depth estimation with diffusion models in *MM*, 2024. [\[paper\]](https://arxiv.org/abs/2404.09831)[\[code\]](https://github.com/wangjiyuan9/D4RD)
@@ -80,23 +86,26 @@ We will continue to update this list with the latest resources. If you find any 
 - [Xiang2025] DEPTHOR: Depth Enhancement from a Practical Light-Weight dToF Sensor and RGB Image in *ICCV*, 2025. [\[paper\]](https://openaccess.thecvf.com/content/ICCV2025/papers/Xiang_DEPTHOR_Depth_Enhancement_from_a_Practical_Light-Weight_dToF_Sensor_and_ICCV_2025_paper.pdf)[\[code\]](https://github.com/ShadowBbBb/Depthor)
 - [Chen2025] Propagating Sparse Depth via Depth Foundation Model for Out-of-Distribution Depth Completion in *IEEE TIP*, 2025. [\[paper\]](https://www.arxiv.org/abs/2508.04984)[\[code\]](https://github.com/shenglunch/PSD)
 - [lin2025] Prompting Depth Anything for 4K Resolution Accurate Metric Depth Estimation in *CVPR*, 2025. [\[paper\]](https://openaccess.thecvf.com/content/CVPR2025/papers/Lin_Prompting_Depth_Anything_for_4K_Resolution_Accurate_Metric_Depth_Estimation_CVPR_2025_paper.pdf)[\[code\]](https://github.com/DepthAnything/PromptDA)
-- [Park2024] A Simple yet Universal Framework for Depth Completion in *NeurIPS*, 2024. [\[paper\]](https://openreview.net/forum?id=Y4tHp5Jilp)[\[code\]](https://github.com/JinhwiPark/UniDC)
-- [Park2024] Depth Prompting for Sensor-Agnostic Depth Estimation in *CVPR*, 2024. [\[paper\]](https://arxiv.org/abs/2405.11867)[\[code\]](https://github.com/JinhwiPark/DepthPrompting)
+
+## ✨Depth Completion (Foundation Model-based Method)
+### 🏷️Test-time Adaptation
+- [Jeong2025] Test-Time Prompt Tuning for Zero-Shot Depth Completion in *ICCV*，2025. [\[paper\]](https://openaccess.thecvf.com/content/ICCV2025/papers/Jeong_Test-Time_Prompt_Tuning_for_Zero-Shot_Depth_Completion_ICCV_2025_paper.pdf)[\[code\]](https://github.com/JinhwiPark/TestPromptDC)
+- [Voila2025] Marigold-DC: Zero-Shot Monocular Depth Completion with Guided Diffusion in *ICCV*, 2025. [\[paper\]](https://arxiv.org/abs/2412.13389)[\[code\]](https://github.com/prs-eth/Marigold-DC)
+- [Lee2025] Zero-shot Depth Completion via Test-time Alignment with Affine-invariant Depth Prior in *AAAI*，2025. [\[paper\]](https://arxiv.org/abs/2502.06338)[\[code\]](https://github.com/kaist-ami/Zero-Shot-Depth-Completion)
 <!-- - [] in **. [\[paper\]]()[\[code\]]() -->
 
-### 🏷️ Knowledge Distillation
+### 🏷️ Distillation
 - [Wang2026] AURORA-KITTI: Any-Weather Depth Completion and Denoising in the Wild in *Arxiv*, 2026. [\[paper\]](https://arxiv.org/abs/2603.14701)
 - [Yang2025] HFD-Teacher: High-Frequency Depth Distillation from Depth Foundation Models for Enhanced Depth Completion in *ICCV*, 2025. [\[paper\]](https://openaccess.thecvf.com/content/ICCV2025/papers/Yang_HFD-Teacher_High-Frequency_Depth_Distillation_from_Depth_Foundation_Models_for_Enhanced_ICCV_2025_paper.pdf)
 - [Wang2025] PacGDC: Label-Efficient Generalizable Depth Completion  with Projection Ambiguity and Consistency in *ICCV*, 2025. [\[paper\]](https://arxiv.org/abs/2507.07374)[\[code\]](https://github.com/Wang-xjtu/PacGDC)
 - [Liang2025] Distilling Monocular Foundation Model for Fine-grained Depth Completion in *CVPR*, 2025. [\[paper\]](https://github.com/Sharpiless/DMD3C)[\[code\]](https://github.com/Sharpiless/DMD3C)
 
-### 🏷️ Test-time Adaptation
-- [Ke2026] Depth Completion as Parameter-Efficient Test-Time Adaptation in *Arxiv*, 2026. [\[paper\]](https://arxiv.org/abs/2602.14751)[\[code\]](https://github.com/nv-dvl/capa)
-- [Seo2026] Efficient Test-Time Optimization for Depth Completion via Low-Rank Decoder Adaptation in *Arxiv*, 2026. [\[paper\]](https://arxiv.org/abs/2603.01765)[\[code\]](https://github.com/Wonjun-Lee1009/Efficient-TTO-Depth-Completion)
-- [Jeong2025] Test-Time Prompt Tuning for Zero-Shot Depth Completion in *ICCV*, 2025. [\[paper\]](https://openaccess.thecvf.com/content/ICCV2025/papers/Jeong_Test-Time_Prompt_Tuning_for_Zero-Shot_Depth_Completion_ICCV_2025_paper.pdf)[\[code\]](https://github.com/JinhwiPark/TestPromptDC)
-- [Voila2025] Marigold-DC: Zero-Shot Monocular Depth Completion with Guided Diffusion in *ICCV*, 2025. [\[paper\]](https://arxiv.org/abs/2412.13389)[\[code\]](https://github.com/prs-eth/Marigold-DC)
-- [Lee2025] Zero-shot Depth Completion via Test-time Alignment with Affine-invariant Depth Prior in *AAAI*, 2025. [\[paper\]](https://arxiv.org/abs/2502.06338)[\[code\]](https://github.com/kaist-ami/Zero-Shot-Depth-Completion)
-- [Gregorek2024] SteeredMarigold: Steering Diffusion Towards Depth Completion of Largely Incomplete Depth Maps in *Arxiv*, 2024. [\[paper\]](https://arxiv.org/abs/2409.10202)[\[code\]](https://github.com/DTU-PAS/steered-marigold)
+### 🏷️ Prompting
+- [Zhou2026] Any to Full: Prompting Depth Anything for Depth Completion in One Stage in *Arxiv*, 2026. [\[paper\]](https://arxiv.org/abs/2603.05711)[\[code\]](https://github.com/zhiyuandaily/Any2Full)
+- [Park2024] Depth Prompting for Sensor-Agnostic Depth Estimation in *CVPR*, 2024. [\[paper\]](https://arxiv.org/abs/2405.11867)[\[code\]](https://github.com/JinhwiPark/DepthPrompting)
+- [Park2024] A Simple yet Universal Framework for Depth Completion in *NeurIPS*, 2024. [\[paper\]](https://openreview.net/forum?id=Y4tHp5Jilp)[\[code\]](https://github.com/JinhwiPark/UniDC)
+- [Park2024] Depth Prompting for Sensor-Agnostic Depth Estimation in *CVPR*, 2024. [\[paper\]](https://arxiv.org/abs/2405.11867)[\[code\]](https://github.com/JinhwiPark/DepthPrompting)
+<!-- - [] in **. [\[paper\]]()[\[code\]]() -->
 
 ## 📊 Datasets
 - **Hypersim**: [Roberts2021] Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding in *ICCV*, 2021. [\[paper\]](https://openaccess.thecvf.com/content/ICCV2021/papers/Roberts_Hypersim_A_Photorealistic_Synthetic_Dataset_for_Holistic_Indoor_Scene_Understanding_ICCV_2021_paper.pdf)[\[download\]](https://github.com/apple/ml-hypersim)
@@ -115,7 +124,6 @@ We will continue to update this list with the latest resources. If you find any 
 ## 🔍 Related Survey
 - [Yao2025] Monocular Depth Estimation in the Foundation  Model Era: A Survey in *TechRxiv*, 2025. [\[paper\]](https://www.techrxiv.org/users/996121/articles/1356831-monocular-depth-estimation-in-the-foundation-model-era-a-survey)
 - [Xu2025] Towards Depth Foundation Model: Recent Trends in Vision-Based Depth Estimation in *Arxiv*, 2025. [\[paper\]](https://arxiv.org/abs/2507.11540)
-- [Zhang2025] Survey on Monocular Metric Depth Estimation in *MDPI computers*, 2025. [\[paper\]](https://arxiv.org/abs/2501.11841)
 - [Xie2024] Recent Advances in Conventional and Deep Learning-Based Depth Completion: A Survey in *IEEE TNNLS*, 2024. [\[paper\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9875218)
 - [Arampatzakis2023] Monocular Depth Estimation: A Thorough Review in *IEEE TPAMI*, 2023. [\[paper\]](https://ieeexplore.ieee.org/document/10313067)
 - [Hu2022] Deep Depth Completion From Extremely Sparse Data: A Survey in *IEEE TPAMI*, 2022. [\[paper\]](https://ieeexplore.ieee.org/document/9984942)
