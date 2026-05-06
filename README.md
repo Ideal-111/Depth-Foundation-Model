@@ -118,4 +118,4 @@ We will continue to update this list with the latest resources. If you find any 
 - [Zhang2025] Survey on Monocular Metric Depth Estimation in *MDPI computers*, 2025. [\[paper\]](https://arxiv.org/abs/2501.11841)
 - [Xie2024] Recent Advances in Conventional and Deep Learning-Based Depth Completion: A Survey in *IEEE TNNLS*, 2024. [\[paper\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9875218)
 - [Arampatzakis2023] Monocular Depth Estimation: A Thorough Review in *IEEE TPAMI*, 2023. [\[paper\]](https://ieeexplore.ieee.org/document/10313067)
-<!-- - [Hu2022] Deep Depth Completion From Extremely Sparse Data: A Survey in *IEEE TPAMI*, 2022. [\[paper\]](https://ieeexplore.ieee.org/document/9984942) -->
+- [Hu2022] Deep Depth Completion From Extremely Sparse Data: A Survey in *IEEE TPAMI*, 2022. [\[paper\]](https://ieeexplore.ieee.org/document/9984942)
