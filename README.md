@@ -11,9 +11,15 @@ This repository is a curated collection of cutting-edge research, tools, and dat
 
 ```
 Taxonomy
-├── Architectural Fine-tuning
+├── Architectural Revision & Fine-tuning
+  ├──MDE-Centric Fine-Tuning
+  ├──DC-Centric Fine-Tuning
 ├── Knowledge Distillation
+  ├──Label-Efficient Supervision
+  ├──Fine-Grained Distillation
 ├── Test-time Adaptation
+  ├──Latent Variable Optimization
+  ├──Parameter-Efficient Test-Time Tuning
 ```
 
 ## 💪 How to Contribute
